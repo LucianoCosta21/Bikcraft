@@ -21,9 +21,9 @@ O projeto foi desenvolvido durante o curso de Web Design Completo da Origamid, n
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://lucianocosta21.github.io/Bickraft/ "Clique para acessar o projeto")   
+[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://lucianocosta21.github.io/Bikcraft/ "Clique para acessar o projeto")   
 
-Você pode acessar o projeto clicando [aqui](https://lucianocosta21.github.io/Bickraft/).
+Você pode acessar o projeto clicando [aqui](https://lucianocosta21.github.io/Bikcraft/).
 
 ---
 
